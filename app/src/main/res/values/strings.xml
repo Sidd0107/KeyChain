@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KeyChain</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="KeyChainTitle">Keychain</string>
+    <string name="AppNameDispText">Application Name</string>
+    <string name="UsernameText">Username</string>
+    <string name="PassName">Password</string>
+    <string name="SubmitButton">Submit</string>
+    <string name="ViewKeychain">View Keychain</string>
+    <string name="title_activity_viewkeychain">Viewkeychain</string>
+
+</resources>
